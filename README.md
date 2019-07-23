@@ -14,3 +14,5 @@ mainWindow.openDocumentsFromList
 
 ## Rotacionar exibição
 mainWindow.rotate(10,20,30);
+
+<img src="images/a.png" />
